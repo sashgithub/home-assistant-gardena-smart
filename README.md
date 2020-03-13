@@ -24,6 +24,7 @@ Gardena requires the creation of an account and an application in order to use t
 You can find how to create such an account and application here : <a href="https://developer.1689.cloud/docs/getting-started#/docs/getting-started/#3connect-api-to-application">Account and application creation</a>
 
 
+## Home Assistant
 ```
 configuration.yaml
 
