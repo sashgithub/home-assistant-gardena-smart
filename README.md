@@ -1,8 +1,8 @@
 # home-assistant-gardena-smart
 Gardena Smart Garden
 
-Code from Jérémie Klein - grm
-Thx to Jérémie Klein - please support him!
+*   **Code from Jérémie Klein - grm
+*   **Thx to Jérémie Klein - please support him!
 
 ## Requirements
 
