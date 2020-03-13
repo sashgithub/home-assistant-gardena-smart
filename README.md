@@ -4,8 +4,10 @@ gardena smart garden
 Code from Jérémie Klein - grm
 
 
-configuration.yaml
+
 ```
+configuration.yaml
+
 email: !secret gardena_email
 password: !secret gardena_password
 client_id: !secret gardena_client_id
