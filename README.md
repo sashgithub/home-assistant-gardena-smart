@@ -3,7 +3,7 @@ Gardena Smart Garden
 
 *   Code from Jérémie Klein - grm
 *   Thx to Jérémie Klein - please support him!
-*   <a href="https://github.com/grm>https://github.com/grm</a>
+*   <a href="https://github.com/grm">https://github.com/grm</a>
 
 ## Requirements
 
