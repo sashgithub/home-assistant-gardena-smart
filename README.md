@@ -36,3 +36,4 @@ mower_duration: 300
 smart_irrigation_control_duration: 60
 smart_watering_duration: 1800
 ```
+60 = 1 minute (example: 1800 = 30 minutes)
