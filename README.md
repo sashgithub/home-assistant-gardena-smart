@@ -37,4 +37,4 @@ mower_duration: 300
 smart_irrigation_control_duration: 60
 smart_watering_duration: 60
 ```
-60 = 60 minute (change 16.03.2020, before it was in seconds, however)
+60 = 60 minutes (change 16.03.2020, before it was in seconds, however)
