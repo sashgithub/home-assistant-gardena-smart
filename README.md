@@ -35,6 +35,6 @@ client_id: !secret gardena_client_id
 location_id: !secret gardena_location_id
 mower_duration: 300
 smart_irrigation_control_duration: 60
-smart_watering_duration: 1800
+smart_watering_duration: 60
 ```
-60 = 1 minute (example: 1800 = 30 minutes)
+60 = 60 minute (change 16.03.2020, before it was in seconds, however)
